@@ -1,0 +1,17 @@
+# reprepro database
+apt/db/
+apt/.lock
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo

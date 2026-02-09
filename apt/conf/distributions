@@ -1,0 +1,7 @@
+Origin: Seedboxes
+Label: Seedboxes
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Seedboxes Software Repository
+SignWith: A41A71C6BD93E6B2
