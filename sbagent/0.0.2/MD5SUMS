@@ -1,0 +1,12 @@
+31e226ea0702557138c652ad01539940  SHA1SUMS
+c74537a4ed82fd113cc21975e125fdfe  SHA256SUMS
+7bfb947fd720b48e2687fd6a6f121ea9  sbagent-cli-linux-386
+0d04f956e0b52e47dc3f49cf2b64ea07  sbagent-cli-linux-amd64
+4c3ba5d89e983b0b8f3120e209fac18f  sbagent-cli-linux-arm
+ccd5aa210eb8cc3f4f31b02af1650ae3  sbagent-cli-linux-arm-v6
+4c3ba5d89e983b0b8f3120e209fac18f  sbagent-cli-linux-arm-v7
+a09e4fc2dac7ac3954982b9ac826721b  sbagent-cli-linux-arm64
+2c0212e7533ff177f81fbdb55966a1ad  sbagent-darwin-universal.dmg
+261e2deac4d1cd2fe3c5fe82623bdb35  sbagent-linux-amd64.deb
+0edda10f99abe09786e5d9e5c92e82c7  sbagent-linux-arm64.deb
+dcdb47b17c49ec7aedfa222778692d5f  seedbucket-remote-agent-0.0.2.exe

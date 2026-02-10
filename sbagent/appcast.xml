@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Seedbucket Remote Agent</title>
+        <link>https://releases.seedboxes.cc/sbagent/appcast.xml</link>
+        <description>Seedbucket Remote Agent Updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.0.2</title>
+            <sparkle:version>0.0.2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <pubDate>Tue, 10 Feb 2026 11:22:02 +0000</pubDate>
+            <enclosure url="https://releases.seedboxes.cc/sbagent/0.0.2/sbagent-darwin-universal.dmg"
+                       sparkle:version="0.0.2"
+                       sparkle:shortVersionString="0.0.2"
+                       length="8100481"
+                       type="application/octet-stream"
+                       sparkle:edSignature="" />
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
