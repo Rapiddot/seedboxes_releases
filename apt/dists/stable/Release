@@ -1,0 +1,28 @@
+Origin: Seedboxes
+Label: Seedboxes
+Codename: stable
+Date: Fri, 06 Mar 2026 11:27:44 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Seedboxes Software Repository
+MD5Sum:
+ 17c4b0341c98294294db5d573ca154c3 480 main/binary-amd64/Packages
+ 71628cfff1eb93035ba60833d4dda9de 358 main/binary-amd64/Packages.gz
+ fd92e86eca9ceedb620d178ca549f9de 114 main/binary-amd64/Release
+ 9f125fed327e74f9362b0d24984de3e3 480 main/binary-arm64/Packages
+ 07b44bf90fb6a3f7b737f2a05174571c 358 main/binary-arm64/Packages.gz
+ 20acebd942274e224f25ed1ddf0d2b2d 114 main/binary-arm64/Release
+SHA1:
+ 9b297787b5dcccfb4edd61e285e80f26cf381909 480 main/binary-amd64/Packages
+ d886c52eaaea6ec99e07aa3bb3d1015ca68459eb 358 main/binary-amd64/Packages.gz
+ 0cba5c0c4515c88be957f12b8206fb142063af1c 114 main/binary-amd64/Release
+ 9a8541ed23c3136ff4b6ce4dcb24eec0ca782f81 480 main/binary-arm64/Packages
+ 8f94c32d64ca1b1972ffa7fbfce3412ffa35dea4 358 main/binary-arm64/Packages.gz
+ 6549f8f34686d51902b1970d63e6fc4f3efbfd28 114 main/binary-arm64/Release
+SHA256:
+ bfea400c358d8d44c5877bbbb9f85f41ccfd9015480cd2beca18f6da303e511c 480 main/binary-amd64/Packages
+ 3706828992dac95dc306b378dea56cf1ecffa0527c7f4bbc6369033f273a215d 358 main/binary-amd64/Packages.gz
+ b1f64246f89783f849642478b42175d075b4b2fd816b6a1ea34817505263f01b 114 main/binary-amd64/Release
+ 888aa427f0a85134aff4536fc124def8e5864d2fecc59c63cb80ed50b6cf9942 480 main/binary-arm64/Packages
+ 1bced5146c4ef0c6d6b01f4e55129c537d785fd6f5138637bf7671f14d6f3693 358 main/binary-arm64/Packages.gz
+ a8e6279a7e9ad912ede463b162178b090906f7d77c683ef05e792859b4551525 114 main/binary-arm64/Release
