@@ -1,0 +1,11 @@
+745918dd3863ff1a81a7493df3d3d4b0dd03804a  SHA256SUMS
+f9282094a92faef06d5a46e3a089c2bc3f3304b5  sbagent-cli-linux-386
+494d223b023c1a634faaed53efdcf66351c10c9b  sbagent-cli-linux-amd64
+77f8ee49bb52c2098d4ec8f7644b7b521998c59f  sbagent-cli-linux-arm
+6e8892705322d521807586d6bc5ab792ea1471a0  sbagent-cli-linux-arm-v6
+77f8ee49bb52c2098d4ec8f7644b7b521998c59f  sbagent-cli-linux-arm-v7
+ce0673b3502cd1708d070e23b7ebb5315035028b  sbagent-cli-linux-arm64
+a8958e9a3a03202ba2bbe53c831c74016060bbef  sbagent-darwin-universal.dmg
+32bdb19cd5bbce0716bcb65e76c6ea2357e4a894  sbagent-linux-amd64.deb
+54cbe751f34e9aea4db664a7aa5e6d6eb7b7beb4  sbagent-linux-arm64.deb
+425020c6f6927ed8318cf22f6e2e8ddb6ec47e9b  sbagent-win-amd64.exe
