@@ -1,28 +1,28 @@
 Origin: Seedboxes
 Label: Seedboxes
 Codename: stable
-Date: Tue, 10 Mar 2026 11:25:28 UTC
+Date: Wed, 01 Apr 2026 14:29:32 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Seedboxes Software Repository
 MD5Sum:
- 4646335008406f6d21a1af778b54a9ea 480 main/binary-amd64/Packages
- 217d4576c2b243d35c95a78c5cfff57f 356 main/binary-amd64/Packages.gz
+ 677431e98f8f46a534e78c1fb3d086f0 480 main/binary-amd64/Packages
+ c435368b285c5023dd7b514fddc01abd 358 main/binary-amd64/Packages.gz
  fd92e86eca9ceedb620d178ca549f9de 114 main/binary-amd64/Release
- a19fa1f2dc79f200fb888b6195f1bbcd 480 main/binary-arm64/Packages
- 568f0be9667769f2e8c2e50131d26d5a 356 main/binary-arm64/Packages.gz
+ 3edebcbecfb945e59b6093acefdcd03a 480 main/binary-arm64/Packages
+ 5442f0b8e02e22a5a1a540c1e080db89 357 main/binary-arm64/Packages.gz
  20acebd942274e224f25ed1ddf0d2b2d 114 main/binary-arm64/Release
 SHA1:
- d623aade5c097ad43d8d5240eb604b0b448b1308 480 main/binary-amd64/Packages
- 073fb91fb32aba1c35080ad8fbdeb8cd47001f6c 356 main/binary-amd64/Packages.gz
+ d848e294c05627bc483e5e58dd9927479adf8e8b 480 main/binary-amd64/Packages
+ 5cb89b0d31882a706c53e1f8d06eb9aa098be075 358 main/binary-amd64/Packages.gz
  0cba5c0c4515c88be957f12b8206fb142063af1c 114 main/binary-amd64/Release
- cc25e50f42d48fe854eb3e421fe23060a7166c0c 480 main/binary-arm64/Packages
- d8da1b996d2b94f2a605861df7675a7f3e29cbe9 356 main/binary-arm64/Packages.gz
+ f462cf852567a4b77cc9d2e6d984a8e603131238 480 main/binary-arm64/Packages
+ 0f34218f6404fa0ab7d4e5a379a19b5a7549323d 357 main/binary-arm64/Packages.gz
  6549f8f34686d51902b1970d63e6fc4f3efbfd28 114 main/binary-arm64/Release
 SHA256:
- 4da0fa45fdbe34c354a83e2c08f002eeec7d3c7c99d40e3fadcca08bca5c3a61 480 main/binary-amd64/Packages
- d6453bac47f16e42176b699c65b1f3bbb8a798aecaab2013d884aaf0ef46ea18 356 main/binary-amd64/Packages.gz
+ ed90feb3641e85b9b76d5488bd5870dc63589aac3c3e63f932dce0466b19e075 480 main/binary-amd64/Packages
+ d0c64783fbe0811c647f64d350a10b180f0a43ac47c102752c9e298920ffd4c5 358 main/binary-amd64/Packages.gz
  b1f64246f89783f849642478b42175d075b4b2fd816b6a1ea34817505263f01b 114 main/binary-amd64/Release
- 5076e00d4ff0180c7688c6bd5e66a8926aa724dc0b60a9365ef197a0e231eec8 480 main/binary-arm64/Packages
- eedbe26e1bf40d8bebcb51966a3029129872f13ee7069004261dee9723982343 356 main/binary-arm64/Packages.gz
+ 9057dcd2b67642f67e7b2023e3ed75eb2e2e39bc1f04902a6dcfa5aea2acb7e4 480 main/binary-arm64/Packages
+ de157e30f68020997087a7eb4e541a266f1e222c62e1369265ef300aab5b3274 357 main/binary-arm64/Packages.gz
  a8e6279a7e9ad912ede463b162178b090906f7d77c683ef05e792859b4551525 114 main/binary-arm64/Release
