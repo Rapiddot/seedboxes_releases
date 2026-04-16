@@ -1,15 +1,15 @@
 Package: sbagent
-Version: 1.0.6
+Version: 1.0.7
 Architecture: amd64
 Maintainer: Rapiddot Hosting Services Ltd. <support@seedboxes.cc>
 Homepage: https://seedbucket.seedboxes.cc
 Priority: optional
 Section: net
-Filename: pool/main/s/sbagent/sbagent_1.0.6_amd64.deb
-Size: 2867928
-SHA256: befced3093cd5ad1c8c4dd49b80238751ff54261ab77eef53e5b97dedbc50c1a
-SHA1: c1cc491dd254de043be44d2ee732aaeca41a6811
-MD5sum: 21d56c8856893c04df467d78a28c0bc9
+Filename: pool/main/s/sbagent/sbagent_1.0.7_amd64.deb
+Size: 2868380
+SHA256: ae5f56053c94b4a6115995cbee19c01fc46a74b9869b403d09e4dbd578737bc5
+SHA1: 499549491ba708e0366b4921603ca4df56a89444
+MD5sum: 7a470820340868fda2a9859ec3749970
 Description: Seedbucket Remote Agent
-Installed-Size: 8176
+Installed-Size: 8180
 
