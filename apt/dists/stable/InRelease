@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: Seedboxes
 Label: Seedboxes
 Codename: stable
-Date: Mon, 20 Apr 2026 11:53:35 UTC
+Date: Thu, 30 Apr 2026 09:10:28 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Seedboxes Software Repository
 MD5Sum:
- 24fdb13552ad30c414987ab4912e6a0d 480 main/binary-amd64/Packages
- 8295c75e326214d429678197572c101a 359 main/binary-amd64/Packages.gz
+ 25da4cef3e67f8914ca9f9505f74a59c 482 main/binary-amd64/Packages
+ 5346e1f26fe28267b331bfc843a31ea1 360 main/binary-amd64/Packages.gz
  fd92e86eca9ceedb620d178ca549f9de 114 main/binary-amd64/Release
- 4de2ffa687ff9108cee4e82e8fc82a97 480 main/binary-arm64/Packages
- 81452d1fbbf88bf9a3232421913da673 360 main/binary-arm64/Packages.gz
+ 2882a0055ce4938c939829f9e43c773e 482 main/binary-arm64/Packages
+ d2f39a01604bce16fb10665793d48d85 355 main/binary-arm64/Packages.gz
  20acebd942274e224f25ed1ddf0d2b2d 114 main/binary-arm64/Release
 SHA1:
- 6e322f72aac2c0fe639a2d85724284ebb46b1a18 480 main/binary-amd64/Packages
- 808577ca6a4c655a0755b96553b6ec9bf4f5bd5e 359 main/binary-amd64/Packages.gz
+ ef763fd8b879fb358b72c775e702c20a4679e913 482 main/binary-amd64/Packages
+ ac2987a4d273e1145e162dc68320ded3249bd156 360 main/binary-amd64/Packages.gz
  0cba5c0c4515c88be957f12b8206fb142063af1c 114 main/binary-amd64/Release
- ac90ea96a2a5911a5fc7620140d94768983400a1 480 main/binary-arm64/Packages
- acb58c977cbfa6a57178ee2487c96ebd0b0ddfd4 360 main/binary-arm64/Packages.gz
+ dadfd2c9fad7a3a40475a322b6e6602fc7e2976f 482 main/binary-arm64/Packages
+ 3f1f1c3def277520b8d768892d88a2a3ef1dcca6 355 main/binary-arm64/Packages.gz
  6549f8f34686d51902b1970d63e6fc4f3efbfd28 114 main/binary-arm64/Release
 SHA256:
- ab856c5fc9dcb9e391e8b41d5d6dbee96c5cbbd4e0580d08d22c2f1bc69a3904 480 main/binary-amd64/Packages
- 673dd9d42eb65a0fa4d5503c8220481ba15891f87ebe4def262ffa749a63970d 359 main/binary-amd64/Packages.gz
+ 75891f0f67d91a032f84e9e4d71cc2b3aa4fdeb0b92e8f36d150fb3d1e98b8ba 482 main/binary-amd64/Packages
+ 6a928fc90c7da2db5572b5060f505f6cb7acefe981745fb3e94084d2105e34aa 360 main/binary-amd64/Packages.gz
  b1f64246f89783f849642478b42175d075b4b2fd816b6a1ea34817505263f01b 114 main/binary-amd64/Release
- daa41dc30f7334c9af18d4293bf39b8fb511c222040592194b4c5118b37d4bc4 480 main/binary-arm64/Packages
- ab97b996a6f85334a38e2511b944fc78c1f7a045edecdd279da7e4ff31e5a9e0 360 main/binary-arm64/Packages.gz
+ 85158c32291ba5b59157f24598b3477b501cfaba12fc5b5f03a88ff27681a2ab 482 main/binary-arm64/Packages
+ ef53e02b7c29ecfeddf8dd43a1f0a5ee61c3f54e9f0f792cd40aa2cfbbe3f768 355 main/binary-arm64/Packages.gz
  a8e6279a7e9ad912ede463b162178b090906f7d77c683ef05e792859b4551525 114 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEcZ/HOqgwswwEjkAKpBpxxr2T5rIFAmnmE8AACgkQpBpxxr2T
-5rLYMw/9GtDg1vAWJuAKXSCYFFlaoH9R6P+BD1jnhW6Mn/wlC4y3Q7z8hsZlXBiI
-oDd4IFrF4IReH9iia2UCE6Y1wTMIZ5bFgWhDntdkwkMzmV+cSAdgdXS4gcv6ooiG
-qeD0UQtDknebJYdZ1Wiv+9DSZ1tkr2l4GnUMI26jQqrq+P59ef/HYX8RemKOcatz
-YRIeg0g9GjN84DLtEWViz6b/XzzqxiMSf1Q6/LXPPI3HBDw93Ac9srdZIkvPgLGW
-EMyNS7Ee5M7nKrUd/iJBppP24aTgGEUk3xojWBkI7ls37atuBeePWKIMei30e6Vr
-STtlQuUDINR/JIDGWRQbExd4Wv+74EvQJ3I4Ufn1EKa9ZR8TPDr66CN5MdLRW0Uf
-Zr26TuQUD9Oaoot/oV/TrasEyaDije1skaEeE7S0VjQAxcjZ16DWBoAr5rC8+aNb
-Gu31ATtpYRch7SupmrWRE3uaaMtdSIOUtdJPQjgcB7qprALt/d315ToDqfYW5xgH
-NNf8cE4wLVtguxZUrmImcsMfnwl0C8AgxHlsiZ6vFaVxSuKt4QY5Y3crE6ssFHzT
-zvnOZBCtOyUw0Z8aMwhiTb6PDjJvZaQpy5xG3iLOnwC4AoXCA3sF622ffMvpJ2CC
-l3Ss2824HsAESFZTWsO9WlIwoYed1ciia3LSq8j77fwmpQ4T9IM=
-=YIsw
+iQIzBAEBCgAdFiEEcZ/HOqgwswwEjkAKpBpxxr2T5rIFAmnzHIQACgkQpBpxxr2T
+5rLJWQ/7Bq0ovZ9vD95+AuzU0OkqM8sBvR3vlvdFJMljBpoJRlbo2iEKZXi2X8Hf
+SRXa/jxfUa+W+7XXAo1qSnZ0AqzfVRQ5uvNBCh4LhMKXt2cw7b6tmYe5jj3dmWok
+zrvtqd3UdEgzjhQTA0Xl4xIU02jtqFhyF5uoZ2dMTRFpxrOT95ZP1BDNBUlSzUE0
+VNnLgfyQu+VAvqBbNPiRf8ExLmvba0dEdCtjmoWOJ4VRFADuz4Q7X++1Y0s+KoSa
+/EVsyFYk0Llg/giOk2dKIVrvaNzjNYsTueRXnl06OOR7+pRDFhLnjiWBavCk/qhc
+gbLbPQxP7pvzcm/EF7EgHsJBAZRiKzRwmk9SQaLSvGhEedurvU49JhdWeyN00oUA
+dvOAD5y4TB40HpSLr/ZLvCvdNH1p7Uw0Wv7qWPhxBseve/gi8m4Kzn+Cri+CAxPu
+T1pSbEwOu7zseFOMDftDzt4z50W/Aq2xi7N4ESquiXfOGmME1Bac2wUAwR5uT7cw
+doj1iuSU+1rCwv7XxCotqCiWNKCgPSiQaxfW6EItsgUaV5dUB0JOVJj2yQQ0eqL1
+cdpLP3L8fHT1I4T9aZyw078zoROYW5Eo2QZGXtAHdH+prXHTCJ1EI1Zdz8GwQ492
+OQLrTHPkJoU7WxJk4B6JMSahybJmXjz2pTCbwKPwhEj33fXal+g=
+=COWB
 -----END PGP SIGNATURE-----
