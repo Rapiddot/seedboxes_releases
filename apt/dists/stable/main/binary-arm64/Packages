@@ -1,15 +1,17 @@
 Package: sbagent
-Version: 1.0.10
+Version: 2.0.1-1
 Architecture: arm64
+License: Proprietary
 Maintainer: Rapiddot Hosting Services Ltd. <support@seedboxes.cc>
+Installed-Size: 11117
+Depends: libgtk-4-1, libwebkitgtk-6.0-4
 Homepage: https://seedbucket.seedboxes.cc
 Priority: optional
 Section: net
-Filename: pool/main/s/sbagent/sbagent_1.0.10_arm64.deb
-Size: 2508364
-SHA256: e5f8b4e5bc6519800cde3d6c33c6b5a75eb9cdcdc398782db721b8761033ec14
-SHA1: a31fd151e09f3e7a605bdd7796c8629d7633aee3
-MD5sum: 9a0cd7d76ccca644d7b39420422b7130
-Description: Seedbucket Remote Agent
-Installed-Size: 7700
+Filename: pool/main/s/sbagent/sbagent_2.0.1-1_arm64.deb
+Size: 4680646
+SHA256: 85e6f31b29fed22022680e9cc685c5c7f6d9c2ee5b55dfb86f8d9138d9d3f3ab
+SHA1: 0d662245c605ea5e2f416f3580f6f7ec5bda2e7f
+MD5sum: 6c9b6de169a16f8fc53179c394cebfde
+Description: Manage and monitor your Seedbucket downloads
 
