@@ -1,5 +1,5 @@
 Package: sbagent
-Version: 2.0.1-1
+Version: 2.0.2-1
 Architecture: arm64
 License: Proprietary
 Maintainer: Rapiddot Hosting Services Ltd. <support@seedboxes.cc>
@@ -8,10 +8,10 @@ Depends: libgtk-4-1, libwebkitgtk-6.0-4
 Homepage: https://seedbucket.seedboxes.cc
 Priority: optional
 Section: net
-Filename: pool/main/s/sbagent/sbagent_2.0.1-1_arm64.deb
-Size: 4680646
-SHA256: 85e6f31b29fed22022680e9cc685c5c7f6d9c2ee5b55dfb86f8d9138d9d3f3ab
-SHA1: 0d662245c605ea5e2f416f3580f6f7ec5bda2e7f
-MD5sum: 6c9b6de169a16f8fc53179c394cebfde
+Filename: pool/main/s/sbagent/sbagent_2.0.2-1_arm64.deb
+Size: 4680954
+SHA256: e7cd663fbb142ab07b5a553a4a21ca65353b4aea42ddedd3b19248406380ff1b
+SHA1: 2b2a79e6e5ef3911ffa36a98013cab996b4a21f9
+MD5sum: 4c94b7b6d525a23eec81a9b17bd235d2
 Description: Manage and monitor your Seedbucket downloads
 
