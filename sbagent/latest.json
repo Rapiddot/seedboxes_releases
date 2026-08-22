@@ -1,100 +1,100 @@
 {
-  "version": "2.1.1",
-  "releaseDate": "2026-08-06T11:54:53Z",
+  "version": "2.1.2",
+  "releaseDate": "2026-08-22T09:14:27Z",
   "packages": {
     "windows/amd64": {
       "ui": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-win-amd64.exe",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-win-amd64.exe",
         "checksums": {
-          "sha256": "7ecb64136fc7f0fb10d179fb94619f47737b3eb454faec55a01adeba400d1b34",
-          "sha1": "9d4e89bf0ffee32aa46cccc8d7a349157e398946",
-          "md5": "79bf697794255c3c9b39d785fed46712"
+          "sha256": "b873729b2f8c295959df20c181d1af857d22bddbfe8dbede90e36c96bca8293b",
+          "sha1": "1c054c786d00c151e0ca35855e94fe4960ed7527",
+          "md5": "23bd96f166233ca275a53e38a94e12f6"
         }
       }
     },
     "darwin/universal": {
       "ui": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-darwin-universal.dmg",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-darwin-universal.dmg",
         "checksums": {
-          "sha256": "26c71c7955e39181b9c962b737c5415962bb20f07347218dc402ce05b3779cdc",
-          "sha1": "ccace39387100477262041ac061d3b0cfa7cf0e6",
-          "md5": "b142a61905eff453d7dfe87af8335bf2"
+          "sha256": "21fe04d1bf250da06aa78b4481d9d6d5885f98e22e064b6276ecfc0ce6ba80c8",
+          "sha1": "4131b4fb53131cd9894b9270be8b718a5ce12898",
+          "md5": "994e61f3092e3ca006338dbc0a5c95e1"
         }
       }
     },
     "linux/amd64": {
       "ui": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-linux-amd64.deb",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-linux-amd64.deb",
         "checksums": {
-          "sha256": "355ea1546dd312cff8f96252597ef4f3b18992bf38c28f03f51e5e9b7010a94c",
-          "sha1": "43cda29abad592d02c71c93093e6cc1ff3994dd1",
-          "md5": "4f96e2b2fd76597784054cde47f524bd"
+          "sha256": "7c4b5aff3876931dadd3e9fb270ad521bcca8861a8acbef544bf819d9a47bbea",
+          "sha1": "3864f7cb70143cfc220413990655af1e98863773",
+          "md5": "531188129fc4d8a189a7e5acaae3aa1e"
         }
       },
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-amd64",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-amd64",
         "checksums": {
-          "sha256": "076f741bee1d57f8087529e71e8d206fd2d3d781748358f823e00828db73810a",
-          "sha1": "a865db171f31ff744cfb91068ed58764b57ba8d6",
-          "md5": "cc8597daae4a2e5c38effd4bd91986e9"
+          "sha256": "c464341940fe84479b21a316f5b7f192e029897ab1a1737af580c1f72c9ccdbd",
+          "sha1": "91d31afac242a066d9e5ee838d48a604120b1fec",
+          "md5": "2a3ec7e217c8da53ac15848628e0dbda"
         }
       }
     },
     "linux/arm64": {
       "ui": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-linux-arm64.deb",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-linux-arm64.deb",
         "checksums": {
-          "sha256": "4181d1489254e8a4b126ac70ddd6486e3a9cbe23b2a7699989da7be4e1a0708c",
-          "sha1": "85cd85804d44a1224a80529c28ff8d2ce2c94719",
-          "md5": "dfc258ca7c735a6a258d803ee0759587"
+          "sha256": "1ba506abe8339841fc0aea8555b9c5fa602021d5ec19fbaf9e32d2016096ffb1",
+          "sha1": "17d455fac4e2a3e45b44c88e0188dcb25ed8c0ae",
+          "md5": "2d99da89fd961149034619333aabff30"
         }
       },
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-arm64",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-arm64",
         "checksums": {
-          "sha256": "5099d6a5791f3044b63a3c8bbe843a22518902fbe6ad6190997b14a8fa65f440",
-          "sha1": "79363af742246fedd8d42692664e2ea3c64e1c8b",
-          "md5": "a18aa364e8ee35e74946233ff6ee99ee"
+          "sha256": "e8ab3728851c393d74bebbb9e9980a10b2d6cfe98038d0e9794086d9ea980ab4",
+          "sha1": "c68f200a04b6254d72b956c021aedeb3456c1986",
+          "md5": "918d68619dd7c2b40bd4a35de4af6ae5"
         }
       }
     },
     "linux/386": {
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-386",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-386",
         "checksums": {
-          "sha256": "52e2336e07ae1b48106b22b395bdf6c686e179a1551e2dfe43bcf7451b8c3e8d",
-          "sha1": "34575af7b2050d6b42f6e76399a8cea506426269",
-          "md5": "46f34a6dd07a08cf249dd782aa67b723"
+          "sha256": "0a20e956a101a9ff0d0f06201bce87ffc01a7fa43b82c8ba171485e14a31af62",
+          "sha1": "c6c7e7c32de83bb81edf0a70aaf9efb55965c71e",
+          "md5": "5e611176867826a2f2adbd0535777852"
         }
       }
     },
     "linux/arm": {
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-arm",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-arm",
         "checksums": {
-          "sha256": "d4993917af8165647a1e03fca39f11ed813bd2ab3642222c689815baba308fe5",
-          "sha1": "50f7128da1c3287c8b6fe14539a3094a4e700ffe",
-          "md5": "96bfcc2f7414b059e20c609c200178d0"
+          "sha256": "b228f9758514bf4ee4f2b7aadd399ab0e60483872ca6dc813df78db907c84d4c",
+          "sha1": "b9fb22387954c4d9860a6372e3ccb8ec8f235560",
+          "md5": "bb245958c3898ca306bb4310859e4871"
         }
       }
     },
     "linux/arm-v6": {
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-arm-v6",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-arm-v6",
         "checksums": {
-          "sha256": "09092f3c5325eb1457fa8f6ff43710526ae03729d56ee6ba973205c2d69e6117",
-          "sha1": "a092b77143c8d18709500a1ba5817c4c2afeff75",
-          "md5": "3e5a38e78cad20ea19e2fae057af0e3f"
+          "sha256": "bfc101b895580f7bca4c72bc159a6d4b1ebf4a974daaf54bac2c6af1eb6658a0",
+          "sha1": "224089da2ea067792417e3c6e6354c83a277ea32",
+          "md5": "28078bffb3927fd2c6b5e20767fdc17d"
         }
       }
     },
     "linux/arm-v7": {
       "cli": {
-        "url": "https://releases.seedboxes.cc/sbagent/2.1.1/sbagent-cli-linux-arm-v7",
+        "url": "https://releases.seedboxes.cc/sbagent/2.1.2/sbagent-cli-linux-arm-v7",
         "checksums": {
-          "sha256": "d4993917af8165647a1e03fca39f11ed813bd2ab3642222c689815baba308fe5",
-          "sha1": "50f7128da1c3287c8b6fe14539a3094a4e700ffe",
-          "md5": "96bfcc2f7414b059e20c609c200178d0"
+          "sha256": "b228f9758514bf4ee4f2b7aadd399ab0e60483872ca6dc813df78db907c84d4c",
+          "sha1": "b9fb22387954c4d9860a6372e3ccb8ec8f235560",
+          "md5": "bb245958c3898ca306bb4310859e4871"
         }
       }
     }
